@@ -15,6 +15,6 @@ This tutorial follows on from part 1, showing more wireframe creating to support
 For Aerofoils - http://airfoiltools.com/
 For Excel Export Macro Workbook - https://5oow.short.gy/iTVsNh
 
-## Part 5 of a Series on the inner workings of CATIA V5
+## Part 6 of a Series on the inner workings of CATIA V5
 
 From the very basics to complex part modelling. The series focuses on the actual way CATIA functions and is designed to give you the knowledge to produce your own parts, not specific ones.
