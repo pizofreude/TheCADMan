@@ -4,7 +4,7 @@ This tutorial focuses on utilising a wireframe part model to produce individual 
 1. Creating Coordinate systems
 2. Inserting a Part into a Product
 3. Creating a new part within an assembly
-4. Copying/pasting part geometry
+4. Copying/pasting part geometry (paste as result to avoid parametric complexities, as Result with Link acceptable for quick part update.)
 
 ## Resources:
 
