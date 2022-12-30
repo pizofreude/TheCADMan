@@ -1,6 +1,6 @@
 ##  Wireframe & Surfacing Part 3
 
-This tutorial of the new series shows you how to do Component Design Part 1 focusing on a fuselage component:
+This tutorial of the new series shows you how to do Component Design Part 2 focusing on a fuselage component:
 1. Aircraft Surface Design
 2. Showing how to robustly design a full set of aircraft surfaces
 
