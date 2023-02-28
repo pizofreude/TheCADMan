@@ -29,7 +29,7 @@ For Excel Export Macro Workbook - https://5oow.short.gy/iTVsNh
 7. Taper ratio: 0.15
 8. Dihedral angle: 5.6°
 9. Average T/C: 10.0
-10. Wing setting angle: 3.1°
+10. Wing setting angle: 2.18°
 11. Wing twist: -3.5° (linear-geometrical)
 
 ### Horizontal Tail Plane (HTP)
