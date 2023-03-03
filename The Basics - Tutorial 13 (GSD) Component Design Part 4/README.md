@@ -69,6 +69,6 @@ Credits to NTRS - NASA Technical Reports Server for providing material from Subj
 This document is not paginated as submitted by the original source.
 
 
-## Part 12 of a Series on the inner workings of CATIA V5
+## Part 13 of a Series on the inner workings of CATIA V5
 
-Part 12 of a Series on the inner workings of CATIA V5 - from the very basics to complex part modelling. The series focuses on the actual way CATIA functions and is designed to give you the knowledge to produce your own parts, not specific ones.
+Part 13 of a Series on the inner workings of CATIA V5 - from the very basics to complex part modelling. The series focuses on the actual way CATIA functions and is designed to give you the knowledge to produce your own parts, not specific ones.
