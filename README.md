@@ -96,7 +96,7 @@ International standards are a set of guidelines or specifications that are agree
 
 International standards can facilitate trade, communication, collaboration, and innovation across different countries and regions. International standards related to CAD design are those that define the best practices for creating, managing, exchanging, and using CAD data and documents.
 
-Organizations that develop and publish standards are:
+The official organizations involved in developing and publishing international standards are:
 
 * DIN: Deutsches Institut für Normung (German Institute for Standardization)
 * ANSI: American National Standards Institute
