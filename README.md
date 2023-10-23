@@ -170,6 +170,24 @@ WIP
 
 ### The_Basics_Tutorial_Fusion360
 
+This folder consists of the following Fusion 360 modules:
+
+* **Design:** This module is used to create and modify 3D parts and assemblies.
+* **Manufacturing:** This module provides a variety of tools for manufacturing 3D parts, such as CNC machining, 3D printing, and sheet metal fabrication.
+* **Simulation:** This module provides a variety of tools for simulating the behavior of 3D parts and assemblies, such as stress analysis, thermal analysis, and fluid flow analysis.
+* **Collaboration:** This module provides tools for collaborating with other users on design and manufacturing projects.
+* **Data Management:** This module provides tools for managing design data, such as version control and file sharing.
+* **3D Printing:** This module provides tools for preparing 3D models for 3D printing, such as slicing and generating supports.
+* **Generative Design:** This module uses artificial intelligence to generate design options that meet your requirements.
+* **Mold Design:** This module provides tools for designing molds for plastic injection molding.
+* **Nesting & Fabrication:** This module provides tools for nesting and fabricating sheet metal parts.
+* **Product Design Extension:** This module provides additional tools for product design, such as rendering and animations.
+* **Signal Integrity Extension:** This module provides tools for analyzing signal integrity in electronic devices.
+* **Additive Build Extension:** This module provides additional tools for additive manufacturing, such as lattice generation and support optimization.
+* **Manage Extension:** This module provides additional tools for managing data and users.
+
+In addition to these core modules, there are also a number of third-party modules available for Fusion 360. These modules provide additional functionality for a variety of tasks, such as rendering, simulation, and CAM.
+
 WIP
 
 ## Templates
