@@ -118,6 +118,30 @@ Some examples of international standards for CAD design are:
 * ISO 6428: Technical drawings — Requirements for microcopying
 * ISO 7200: Technical product documentation — Data fields in title blocks and document headers
 
+There are two main industry standards for GD&T:
+
+* ISO/TC 213 Geometrical Product Specifications (GPS)
+* ASME Y14.5 Dimensioning and Tolerancing
+
+In term of Design for Manufacturing (DFM) and Design for Assembly (DFA), these are commonly found industry standards:
+
+* **ANSI/IPC-2221A:** This standard provides guidelines and recommendations for the design of printed circuit boards (PCBs) for manufacturability and assembly.
+* **ASME Y14.5-2018:** This standard provides geometric dimensioning and tolerancing (GD&T) symbols and rules that are used to communicate the geometric characteristics of parts and assemblies.
+* **SAE International J2768:** This standard provides guidelines and recommendations for the design of automotive parts for manufacturability and assembly.
+* **IEC 61174:** This standard provides guidelines and recommendations for the design of electronic products for manufacturability and assembly.
+* **ISO/TS 16949:** This standard provides technical requirements for automotive production quality management systems. It includes requirements for DFM and DFA.
+
+In addition to industry standards, there are also a number of best practices for DFM and DFA. These best practices can help us to design products that are easier and less expensive to manufacture and assemble.
+
+Here are some examples of DFM and DFA best practices:
+
+* **Design for standard processes and materials.** This will help to reduce the need for custom tooling and reduce manufacturing costs.
+* **Design for modularity.** This will make it easier to assemble and disassemble your products.
+* **Design for testability.** This will help you to identify and fix defects early in the manufacturing process.
+* **Use design for manufacturing and assembly tools.** There are a number of software tools available that can help you to identify and address potential DFM and DFA issues.
+
+By following industry standards and best practices, you can design products that are easier and less expensive to manufacture and assemble. This can help you to improve your product quality, reduce your costs, and shorten your time to market.
+
 ## Tutorials
 
 The Tutorials folder contains various tutorials on different CAD software packages. These tutorials cover basic and advanced topics such as solid & generative shape modeling, part interference analysis, drawing, rendering, and animation. We welcome contributions from users who would like to create or share their tutorials with the community.
