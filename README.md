@@ -124,7 +124,24 @@ The Tutorials folder contains various tutorials on different CAD software packag
 
 ### The_Basics_Tutorial_CATIAv5
 
-This folder contains tutorials on the basics of CATIAv5, covering Part Design, Generative Shape Design, Drafting, Rendering, DMU Space Analysis and etc.
+This folder contains tutorials on the basics of CATIA (applicable to both V5 and V6), covering Part Design, Generative Shape Design, Drafting, Rendering, DMU Space Analysis and etc.
+
+Here is a list of all available modules for CATIA V5 and V6:
+
+**CATIA V5 & V6**
+
+* **Part Design:** This module is used to create and modify 3D parts.
+* **Assembly Design:** This module is used to create and manage assemblies of 3D parts.
+* **Generative Shape Design:** This module is used to create and modify 3D shapes using mathematical definitions.
+* **Drafting:** This module is used to create 2D drawings of 3D parts and assemblies.
+* **Sheet Metal Design:** This module is used to create and modify sheet metal parts.
+* **Surface Design:** This module is used to create and modify 3D surfaces.
+* **Knowledgeware:** This module is used to create and manage knowledge bases that can be used to automate design and manufacturing tasks.
+* **Process:** This module is used to create and manage process plans for manufacturing 3D parts and assemblies.
+* **Product Lifecycle Management (PLM):** This module is used to manage the product lifecycle, from concept to end-of-life.
+* **Analysis:** This module provides a variety of tools for performing analysis on 3D parts and assemblies, such as stress analysis, thermal analysis, and fluid flow analysis.
+
+In addition to these core modules, there are also a number of optional modules available for CATIA V5 and V6. These modules provide additional functionality for a variety of tasks, such as DMU analysis and CAD translation.
 
 ### The_Basics_Tutorial_FreeCAD
 
