@@ -128,6 +128,27 @@ This folder contains tutorials on the basics of CATIAv5, covering Part Design, G
 
 ### The_Basics_Tutorial_FreeCAD
 
+This folder contains the following modules from FreeCAD offering:
+
+* **Part:** The Part module is the core module of FreeCAD and provides the basic functionality for creating and manipulating 3D objects.
+* **Draft:** The Draft module provides a variety of tools for 2D drafting, including lines, arcs, circles, and polygons.
+* **Sketcher:** The Sketcher module provides a powerful tool for creating 2D sketches of 3D objects.
+* **Arch:** The Arch module provides a variety of tools for creating and manipulating architectural objects, such as walls, doors, and windows.
+* **Ship:** The Ship module provides a variety of tools for creating and manipulating ship hulls and other marine structures.
+* **Spreadsheet:** The Spreadsheet module provides a spreadsheet editor that can be used to create and edit tables of data.
+* **FEM:** The FEM module provides a variety of tools for performing finite element analysis (FEA) on 3D objects.
+* **Path:** The Path module provides a variety of tools for creating and editing toolpaths for CNC machines.
+* **Plot:** The Plot module provides a variety of tools for plotting 2D and 3D objects.
+* **Mesh:** The Mesh module provides a variety of tools for creating and manipulating 3D meshes.
+* **Surface:** The Surface module provides a variety of tools for creating and manipulating 3D surfaces.
+* **PartDesign:** The PartDesign module provides a variety of tools for creating and manipulating parameterized 3D objects.
+* **Assembly:** The Assembly module provides a variety of tools for creating and managing assemblies of 3D objects.
+* **TechDraw:** The TechDraw module provides a variety of tools for creating technical drawings of 3D objects.
+* **AddonManager:** The AddonManager module provides a tool for managing FreeCAD add-ons.
+
+In addition to these core modules, there are also a number of third-party modules available for FreeCAD. These modules provide additional functionality for a variety of tasks, such as rendering, simulation, and CAD translation.
+
+
 WIP
 
 ### The_Basics_Tutorial_Fusion360
