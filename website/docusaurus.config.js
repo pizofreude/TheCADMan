@@ -104,8 +104,8 @@ const config = {
                 href: 'https://stackoverflow.com/users/19436798/pizofreude',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'GrabCAD',
+                href: 'https://grabcad.com/abdul.hafeez.sadon-1',
               },
               {
                 label: 'Twitter',
