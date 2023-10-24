@@ -278,11 +278,11 @@ Top 16 CAD Online References:
 
 ## Contributing
 
-We welcome contributions from the community to improve and expand this repository. If you would like to contribute, please create a pull request with your changes. Before contributing, please review our [Code of Conduct](#code-of-conduct).
+We welcome contributions from the community to improve and expand this repository. If you would like to contribute, please create a pull request with your changes. Before contributing, please review our [Contributing](https://github.com/pizofreude/TheCADMan/blob/main/CONTRIBUTING.md).
 
 ## Code of Conduct
 
-We expect all contributors to follow our [Code of Conduct](CODE_OF_CONDUCT.md) to ensure that this repository remains a safe and welcoming space for everyone. Please review the code of conduct before contributing.
+We expect all contributors to follow our [Code of Conduct](https://github.com/pizofreude/TheCADMan/blob/main/CODE_OF_CONDUCT.md) to ensure that this repository remains a safe and welcoming space for everyone. Please review the code of conduct before contributing.
 
 Thank you for visiting TheCADMan. We hope that this repository will help you become an excellent CAD user.
 
