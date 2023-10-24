@@ -274,7 +274,7 @@ Top 16 CAD Online References:
 
 ## Contributing
 
-We welcome contributions from the community to improve and expand this repository. If you would like to contribute, please create a pull request with your changes. Before contributing, please review our [Code of Conduct](#code-of-conduct).
+We welcome contributions from the community to improve and expand this repository. If you would like to contribute, please create a pull request with your changes. Before contributing, please review our [Contributing](CONTRIBUTING.md).
 
 ## Code of Conduct
 
