@@ -127,7 +127,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} TheCADMan. Built with Docusaurus. Maintained by <a href="https://github.com/pizofreude/TheCADMan">Pizofreude</a>.`,
       },
       prism: {
         theme: lightCodeTheme,
