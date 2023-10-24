@@ -4,31 +4,33 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'CAD Hub',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        TheCADMan aims to be a comprehensive learning hub for Computational Aided Design,
+         covering industrial design theory, manufacturing design process, and
+          international standards such as DIN and ISO.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Lifelong Learning',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Let's shift our focus on Lifelong learning. Make it easy via <code>TheCADMan</code> providing centralized platform 
+        for students, enthusiasts, and professionals to learn & share knowledge about CAD.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Powered by React & Docusaurus',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
+        Customize our website layout by reusing React whilst letting documentation
+        handled by Docusaurus which can
         be extended while reusing the same header and footer.
       </>
     ),
