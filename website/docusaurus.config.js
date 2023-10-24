@@ -101,7 +101,7 @@ const config = {
             items: [
               {
                 label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                href: 'https://stackoverflow.com/users/19436798/pizofreude',
               },
               {
                 label: 'Discord',
