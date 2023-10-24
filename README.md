@@ -105,7 +105,7 @@ The official organizations involved in developing and publishing international s
 * ASME: American Society of Mechanical Engineers
 * JIS: Japanese Industrial Standards
 
-Some examples of international standards for CAD design are:
+Commonly used international standards for CAD design are:
 
 * ISO 128: Technical drawings — General principles of presentation
 * ISO 13567: Technical product documentation — Organization and naming of layers for CAD
