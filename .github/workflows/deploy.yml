@@ -24,11 +24,15 @@ jobs:
           node-version: 19
           cache: npm
           cache-dependency-path: './website/package-lock.json' # The path to your package-lock.json
+        working-directory: './website'
+          
 
       - name: Install dependencies
         run: npm ci
+        working-directory: './website'
       - name: Build website
         run: npm run build
+        working-directory: './website'
 
       # Popular action to deploy to GitHub Pages:
       # Docs: https://github.com/peaceiris/actions-gh-pages#%EF%B8%8F-docusaurus
@@ -40,6 +44,7 @@ jobs:
           publish_branch: main
           # Build output to publish to the `gh-pages` branch:
           publish_dir: ./website/build
+        working-directory: './website'
           # publish_dir: ./build
           # The following lines assign commit authorship to the official
           # GH-Actions bot for deploys to `gh-pages` branch:
