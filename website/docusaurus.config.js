@@ -41,7 +41,7 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          customDocsPath: './website',  // Add the customDocsPath option
+          // customDocsPath: './website',  // Add the customDocsPath option!!!!! IT DOESNT WORK
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
