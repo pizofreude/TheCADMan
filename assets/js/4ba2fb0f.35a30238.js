@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[6218],{9482:e=>{e.exports=JSON.parse('{"label":"facebook","permalink":"/TheCADMan/blog/tags/facebook","allTagsPath":"/TheCADMan/blog/tags","count":1}')}}]);
