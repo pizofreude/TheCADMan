@@ -139,18 +139,18 @@ const config = {
     }),
 };
 
-// module.exports = config;
+module.exports = config;
 
-// docusaurus.config.js
-module.exports = {
-  ...config, // Spread the existing config object
-  plugins: [
-    [
-      '@docusaurus/plugin-content-docs',
-      {
-        customDocsPath: './website', // Add the customDocsPath option
-      },
-    ],
-  ],
-};
+// // docusaurus.config.js
+// module.exports = {
+//   ...config, // Spread the existing config object
+//   plugins: [
+//     [
+//       '@docusaurus/plugin-content-docs',
+//       {
+//         customDocsPath: './website', // Add the customDocsPath option
+//       },
+//     ],
+//   ],
+// };
 
