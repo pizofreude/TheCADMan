@@ -43,7 +43,7 @@ jobs:
           # GitHub Pages branch to deploy
           publish_branch: gh-pages
           # Build output to publish to the `gh-pages` branch:
-          publish_dir: ./website/build
+          publish_dir: './website/build'
         # working-directory: './website'
           # publish_dir: ./build
           # The following lines assign commit authorship to the official
