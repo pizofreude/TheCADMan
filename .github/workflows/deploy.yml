@@ -41,7 +41,7 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           # GitHub Pages branch to deploy
-          publish_branch: main
+          publish_branch: gh-pages
           # Build output to publish to the `gh-pages` branch:
           publish_dir: ./website/build
         # working-directory: './website'
