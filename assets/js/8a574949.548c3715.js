@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[2857],{3416:e=>{e.exports=JSON.parse('{"label":"future","permalink":"/TheCADMan/blog/tags/future","allTagsPath":"/TheCADMan/blog/tags","count":1}')}}]);

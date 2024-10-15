@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[7867],{1124:e=>{e.exports=JSON.parse('{"label":"2024","permalink":"/TheCADMan/blog/tags/2024","allTagsPath":"/TheCADMan/blog/tags","count":1}')}}]);
