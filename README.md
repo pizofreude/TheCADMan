@@ -1,5 +1,7 @@
 # TheCADMan
 
+<!-- GitAds-Verify: V229UY424K48YJIOZBB9ZUHIEQBB4O9L -->
+
 Welcome to TheCADMan, a comprehensive public repository for CAD users. This repository is designed to equip students, enthusiasts, and professionals with the essential tools, tips, and techniques to become excellent CAD users. Whether you are new to CAD or a seasoned pro, this repository has something for everyone.
 
 The main objective of TheCADMan is to be a comprehensive learning hub for Computational Aided Design (CAD), covering industrial design theory, manufacturing design process, and international standards such as DIN and ISO. Another purpose of this repository is to provide a centralized FAQ platform for students, professionals, and enthusiasts to learn and share knowledge about CAD.
