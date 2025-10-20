@@ -293,3 +293,8 @@ All CAD Projects utilizing multiple CAD tools in this repository are:
 * Do not copy without any improvement/modification according to your working standards.
   
 * All dimensions and designs have been modified to avoid any patent infringements.
+
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=pizofreude/thecadman@github)](https://gitads.dev/v1/ad-track?source=pizofreude/thecadman@github)
+
+
