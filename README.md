@@ -255,7 +255,7 @@ WIP
 
 The Resources section contains links to external resources such as online courses, blogs, forums, and YouTube channels that offer CAD training and support. These resources can help you expand your knowledge and skills beyond what is available in this repository. We welcome suggestions for additional resources from the community.
 
-Top 16 CAD Online References:
+Top 17 CAD Online References:
 
 - FreeCAD Documentation: https://wiki.freecadweb.org/Documentation
 - Udemy - Online Courses on FreeCAD: https://www.udemy.com/topic/freecad/
@@ -273,6 +273,7 @@ Top 16 CAD Online References:
 - SolidSmack - Articles on Product Design, Engineering, Technology News, etc.: https://www.solidsmack.com/
 - GrabCAD Blog - Articles on Engineering Challenges, Tutorials, Tips & Tricks etc.: https://blog.grabcad.com/blog/
 - Learn Engineering - Free PDF Books on CAD/CAM/CIM with FreeCAD: https://learnengineering.in/cadcamcimbooks/
+- SolidCraft CAD - Guide to SolidCraft, the open-source parametric 3D CAD app in Rust (browser use, downloads, MCP setup): https://solidcraftcad.com/
 
 ## Contributing
 
