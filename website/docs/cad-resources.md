@@ -21,22 +21,20 @@ In this repository, you will find:
 Table of Contents
 -----------------
 
-- [TheCADMan](#thecadman)
-  - [Table of Contents](#table-of-contents)
-  - [docs](#docs)
-    - [Literature](#literature)
-    - [Standards](#standards)
-  - [Tutorials](#tutorials)
-    - [The\_Basics\_Tutorial\_CATIAv5](#the_basics_tutorial_catiav5)
-    - [The\_Basics\_Tutorial\_FreeCAD](#the_basics_tutorial_freecad)
-    - [The\_Basics\_Tutorial\_Fusion360](#the_basics_tutorial_fusion360)
-  - [Templates](#templates)
-  - [Libraries](#libraries)
-  - [CAD Software](#cad-software)
-  - [Resources](#resources)
-  - [Contributing](#contributing)
-  - [Code of Conduct](#code-of-conduct)
-  - [Disclaimer](#disclaimer)
+- [docs](#docs)
+  - [Literature](#literature)
+  - [Standards](#standards)
+- [Tutorials](#tutorials)
+  - [The\_Basics\_Tutorial\_CATIAv5](#the_basics_tutorial_catiav5)
+  - [The\_Basics\_Tutorial\_FreeCAD](#the_basics_tutorial_freecad)
+  - [The\_Basics\_Tutorial\_Fusion360](#the_basics_tutorial_fusion360)
+- [Templates](#templates)
+- [Libraries](#libraries)
+- [CAD Software](#cad-software)
+- [Resources](#resources)
+- [Contributing](#contributing)
+- [Code of Conduct](#code-of-conduct)
+- [Disclaimer](#disclaimer)
 
 
 ## docs

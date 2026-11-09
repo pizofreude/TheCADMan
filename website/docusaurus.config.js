@@ -1,8 +1,8 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+const lightCodeTheme = require('prism-react-renderer').themes.github;
+const darkCodeTheme = require('prism-react-renderer').themes.dracula;
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -25,7 +25,12 @@ const config = {
   deploymentBranch: 'gh-pages', // Usually gh-pages branch
 
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: 'warn',
+    },
+  },
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -41,7 +46,6 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          // customDocsPath: './website',  // Add the customDocsPath option!!!!! IT DOESNT WORK
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
@@ -141,17 +145,4 @@ const config = {
 };
 
 module.exports = config;
-
-// // docusaurus.config.js
-// module.exports = {
-//   ...config, // Spread the existing config object
-//   plugins: [
-//     [
-//       '@docusaurus/plugin-content-docs',
-//       {
-//         customDocsPath: './website', // Add the customDocsPath option
-//       },
-//     ],
-//   ],
-// };
 
