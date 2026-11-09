@@ -273,7 +273,7 @@ Top 17 CAD Online References:
 - SolidSmack - Articles on Product Design, Engineering, Technology News, etc.: https://www.solidsmack.com/
 - GrabCAD Blog - Articles on Engineering Challenges, Tutorials, Tips & Tricks etc.: https://blog.grabcad.com/blog/
 - Learn Engineering - Free PDF Books on CAD/CAM/CIM with FreeCAD: https://learnengineering.in/cadcamcimbooks/
-- SolidCraft CAD - Guide to SolidCraft, the open-source parametric 3D CAD app in Rust (browser use, downloads, MCP setup): https://solidcraftcad.com/
+- SolidCraft - Open-source parametric 3D CAD built in Rust, with desktop, browser and MCP agent workflows: https://solidcraft.io/
 
 ## Contributing
 
