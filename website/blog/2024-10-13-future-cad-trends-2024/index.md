@@ -1,11 +1,7 @@
 ---
 slug: future-cad-trends-2024
 title: Future CAD Trends to Watch in 2024
-authors:
-  name: AbdulHafeez S.
-  title: CAE Engineer
-  url: https://github.com/pizofreude
-  image_url: https://github.com/pizofreude.png
+authors: [hafeez]
 tags: [cad, future, trends, 2024]
 ---
 
@@ -13,6 +9,8 @@ tags: [cad, future, trends, 2024]
 ## Future CAD Trends to Watch in 2024
 
 The world of CAD (computer-aided design) is continuously evolving. With advances in AI, cloud computing, and industry demands, new trends are set to transform how engineers and designers work. Let’s explore the top CAD trends to watch in 2024.
+
+<!-- truncate -->
 
 ### 1. **AI-Assisted Design**
 Artificial Intelligence is already making waves in CAD, but 2024 will see a broader adoption of AI-assisted design. AI algorithms can help automate repetitive tasks, optimize designs, and even suggest improvements based on machine learning models.

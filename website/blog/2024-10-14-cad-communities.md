@@ -1,11 +1,7 @@
 ---
 slug: cad-community-blog-post
 title: CAD Community Blog Post
-authors:
-  name: AbdulHafeez S.
-  title: CAE Engineer
-  url: https://github.com/pizofreude
-  image_url: https://github.com/pizofreude.png
+authors: [hafeez]
 tags: [cad, community]
 ---
 
@@ -14,6 +10,8 @@ tags: [cad, community]
 CAD (computer-aided design) is a powerful tool that is used in a wide range of industries, including engineering, manufacturing, and architecture. CAD software allows users to create and edit digital representations of physical objects. CAD communities play an important role in helping CAD users of all levels learn and grow.
 
 Here are some of the top CAD community websites and forums:
+
+<!-- truncate -->
 
 * **CADTutor**
 

@@ -1,17 +1,15 @@
 ---
 slug: must-have-cad-tools-for-engineers
 title: 10 Must-Have CAD Tools for Engineers in 2024
-authors:
-  name: AbdulHafeez S.
-  title: CAE Engineer
-  url: https://github.com/pizofreude
-  image_url: https://github.com/pizofreude.png
+authors: [hafeez]
 tags: [cad, engineering, tools]
 ---
 
 ## 10 Must-Have CAD Tools for Engineers in 2024
 
 In today's competitive engineering landscape, having the right tools in your CAD toolkit is essential. From design to simulation, CAD software offers a range of functionalities that help engineers streamline their workflow and enhance precision. Here’s a look at 10 must-have CAD tools for engineers in 2024.
+
+<!-- truncate -->
 
 ### 1. **AutoCAD**
 A longstanding favorite, AutoCAD continues to be a go-to tool for engineers. Its versatility and wide array of features make it suitable for 2D and 3D drafting across industries.

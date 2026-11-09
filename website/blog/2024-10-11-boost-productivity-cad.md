@@ -1,17 +1,15 @@
 ---
 slug: boost-productivity-cad
 title: 7 Ways to Boost Productivity in CAD Design
-authors:
-  name: Gurvinder Singh.
-  title: SD Engineer & Maintainer of TheCADMan
-  url: https://github.com/Gurvinder-Singh02
-  image_url: https://avatars.githubusercontent.com/u/66419304?v=4
+authors: [Gxuri]
 tags: [cad, productivity, tips]
 ---
 
 ## 7 Ways to Boost Productivity in CAD Design
 
 Boosting productivity in CAD design is key to delivering high-quality projects on time. Whether you're working solo or part of a team, here are seven practical tips to help you improve your CAD workflow and get more done.
+
+<!-- truncate -->
 
 ### 1. **Use Keyboard Shortcuts**
 

@@ -1,11 +1,7 @@
 ---
 slug: benefits-of-joining-cad-communities
 title: 5 Benefits of Joining CAD Communities for Professional Growth
-authors:
-  name: Gurvinder Singh.
-  title: SD Engineer & Maintainer of TheCADMan
-  url: https://github.com/Gurvinder-Singh02
-  image_url: https://avatars.githubusercontent.com/u/66419304?v=4
+authors: [Gxuri]
 tags: [cad, community, professional growth]
 ---
 
@@ -14,6 +10,8 @@ tags: [cad, community, professional growth]
 In the ever-evolving world of computer-aided design (CAD), being part of a supportive community can make all the difference. Whether you are just starting out or have years of experience, CAD communities offer significant advantages for your professional development.
 
 Here are five key benefits of joining a CAD community:
+
+<!-- truncate -->
 
 ### 1. **Access to Expertise**
 
